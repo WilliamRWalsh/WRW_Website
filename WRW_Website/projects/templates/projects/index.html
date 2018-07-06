@@ -1,0 +1,52 @@
+{% extends 'projects_navbar.html' %}
+{% load staticfiles %}
+
+{% block header %}
+    {% load staticfiles %}
+    <link rel="stylesheet" type="text/css" href="{% static 'projects/style.css' %}" >
+{% endblock header %}
+
+
+{% block body %}
+
+    <!--<div class="row">-->
+        <!--<div class="col-sm nopad">-->
+            <!--<div class="jumbotron jumbotron-fluid ">-->
+
+            <!--</div>-->
+        <!--</div>-->
+    <!--</div>-->
+
+    <div class="row h-25">
+        <div class="col-md-6 col-lg-4 mt-4">
+            <div class="card">
+                <img class="card-img-top" src="{% static 'projects/images/Arcade.png' %}" alt="Card image cap">
+                <div class="card-block text-center">
+                    <h4 class="card-title">2D Video Games</h4>
+                    <p class="card-text">Play videos games I've made.</p>
+                    <a href="{% url 'arcade:index' %}" class="btn btn-primary btn-center">Arcade</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-6 col-lg-4 mt-4">
+            <div class="card">
+                <img class="card-img-top" src="{% static 'projects/images/Web.png' %}" alt="Card image cap">
+                <div class="card-block text-center">
+                    <h4 class="card-title">Webpages</h4>
+                    <p class="card-text">Check out some webpages I've created for no reason at all.</p>
+                    <a href="{% url 'surf:index' %}" class="btn btn-primary">Surf</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-6 col-lg-4 mt-4">
+            <div class="card">
+                <img class="card-img-top" src="{% static 'projects/images/Code.png' %}" alt="Card image cap">
+                <div class="card-block text-center">
+                    <h4 class="card-title">Algorithms</h4>
+                    <p class="card-text">Take a look at some of the programs and scripts I made.</p>
+                    <a href="#" class="btn btn-primary">Dive in</a>
+                </div>
+            </div>
+        </div>
+    </div>
+{% endblock body %}

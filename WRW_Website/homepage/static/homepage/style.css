@@ -1,0 +1,30 @@
+html,body {
+  height: 100%;
+}
+
+
+.nopad{
+  padding: 0px;
+}
+
+.myname{
+  color: #FFF; font-family: 'Berkshire Swash', cursive;
+}
+
+.bgimg {
+  background: url('images/cloud.png') no-repeat center center;
+  height: 100%;
+      background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.williamimg {
+  background: url('images/ClassyWilliam.jpg') no-repeat center center;
+  height: 100%;
+      background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+

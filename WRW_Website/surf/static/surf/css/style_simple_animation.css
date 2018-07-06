@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:800|Poppins:500');
+
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+}
+
+.intro {
+    height: 100%;
+    width: 100%;
+    margin: auto;
+    background: url('../images/forest.png') no-repeat 50% 50%;
+    background-size: cover;
+    display: table;
+    top: 0;
+}
+
+.intro .inner {
+    display: table-cell;
+    vertical-align: middle;
+    padding-bottom: 25%;
+    text-align: center;
+}
+
+.content h1{
+    font-family:'Open Sans', sans-serif;
+    font-size: 550%;
+    color: #f9f3f4;
+
+    text-shadow: 3px 3px #098fa8;
+
+}
+
+.btn {
+    font-family: 'Poppins', sans-serif;
+    font-size: 150%;
+    color: #098fa8;
+    text-decoration: none;
+    border: 2px solid #098fa8;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+
+.btn:hover {
+    color: #156377;
+    border: 2px solid #156377;
+}
+
+.para {
+    font-size: 160%;
+    line-height: 210%;
+    margin: 3%;
+    font-family: sans-serif;
+    text-align: justify;
+}
+
+@media (max-width: 768px) {
+    .content h1 {
+        font-size: 300%;
+    }
+    .btn {
+        font-size: 110%;
+        padding: 7px 15px;
+    }
+    .para {
+        font-size: 100%;
+        line-height: 160%;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

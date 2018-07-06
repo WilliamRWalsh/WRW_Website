@@ -1,0 +1,55 @@
+
+.card-img-top {
+    width: 100%;
+    height: 21vw;
+    object-fit: cover;
+}
+
+.img-bg {
+    background: url('images/Snake.png');
+    background-size: cover;
+}
+
+.img-gamedev {
+  background: url('images/Game.png') no-repeat center center;
+  height: 100%;
+  background-size: cover;
+
+
+
+}
+
+.img-web {
+  background: url('images/Web.png') no-repeat center center;
+  height: 100%;
+  background-size: cover;
+
+
+
+}
+
+.img-code {
+  background: url('images/Code.png') no-repeat center center;
+  height: 100%;
+  background-size: cover;
+
+
+
+}
+
+.nopad{
+  padding: 0px;
+}
+
+.myname{
+  color: #FFF; font-family: 'Berkshire Swash', cursive;
+}
+
+
+.williamimg {
+
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}

@@ -1,0 +1,55 @@
+{% extends 'projects_navbar.html' %}
+{% load staticfiles %}
+
+{% block header %}
+    {% load staticfiles %}
+    <link rel="stylesheet" type="text/css" href="{% static 'arcade/style.css' %}" >
+{% endblock header %}
+
+{% block body %}
+
+    <!--<div class="row">-->
+        <!--<div class="col-sm nopad">-->
+            <!--<div class="jumbotron jumbotron-fluid ">-->
+
+            <!--</div>-->
+        <!--</div>-->
+    <!--</div>-->
+
+    <div class="row h-25 justify-content-center">
+        <div class="col-md-4 col-lg-4 mt-4">
+            <div class="card">
+                <img class="card-img-top" src="{% static 'projects/images/Game.png' %}"  alt="Card image cap">
+                <div class="card-block text-center">
+                    <h4 class="card-title">Phishing</h4>
+                    <p class="card-text">Try to catch all the phishing fish while you let all the normal ones through.</p>
+                    <a href="{% url 'arcade:phishing' %}" class="btn btn-primary btn-center">Play</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row h-25 justify-content-center">
+        <div class="col-md-4 col-lg-4 mt-4">
+            <div class="card">
+                <img class="card-img-top" src="{% static 'projects/images/Web.png' %}"  alt="Card image cap">
+                <div class="card-block text-center">
+                    <h4 class="card-title">Light Fall</h4>
+                    <p class="card-text">Light Fall is an endless runner which I will be releasing to the iPhone and Android Summer of 2018.</p>
+                    <a href="{% url 'arcade:phishing' %}" class="btn btn-primary">Surf</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row h-25 justify-content-center">
+        <div class="col-md-6 col-lg-6 mt-4">
+            <div class="card">
+                <img class="card-img-top" src="{% static 'projects/images/Web.png' %}"  alt="Card image cap">
+                <div class="card-block text-center">
+                    <h4 class="card-title">Day Job</h4>
+                    <p class="card-text">In this puzzle game you must connect the left and right side of the by rotating and switching blocks.  This game is still in development and I'm currently looking for an artist to hire.</p>
+                    <a href="{% url 'arcade:phishing' %}" class="btn btn-primary">Surf</a>
+                </div>
+            </div>
+        </div>
+    </div>
+{% endblock body %}
