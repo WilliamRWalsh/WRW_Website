@@ -1,4 +1,10 @@
 {% extends 'homepage/base.html' %}
+{% load staticfiles %}
+
+{% block header %}
+    {% load staticfiles %}
+    <link rel="stylesheet" type="text/css" href="{% static 'homepage/style.css' %}" >
+{% endblock header %}
 
 {% block body %}
     <div class="row h-100 bgimg">

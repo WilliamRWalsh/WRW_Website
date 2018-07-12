@@ -3,6 +3,7 @@ body, html {
     padding: 0;
     height: 100%;
     width: 100%;
+
 }
 
 
@@ -22,16 +23,16 @@ body, html {
     background-size: cover;
 }
 
-.bgimga {
-
-}
 
 .williamimg {
-  background: url('images/ClassyWilliam.jpg') no-repeat center center;
-  height: 100%;
-      background-position: center;
-    background-repeat: no-repeat;
+    background: url('images/ClassyWilliam.jpg')no-repeat center center;
+    height: 100%;
     background-size: cover;
 }
 
+.about-text {
+    color: #FFF;
+    font-family: 'Open Sans';
+    text-align: justify;
+}
 

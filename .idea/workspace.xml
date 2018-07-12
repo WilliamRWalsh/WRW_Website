@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="878b5ff0-8d3d-4baf-ad45-30fd2974d9d1" name="Default" comment="" />
+    <list default="true" id="878b5ff0-8d3d-4baf-ad45-30fd2974d9d1" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WRW_Website/homepage/static/homepage/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/WRW_Website/homepage/static/homepage/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WRW_Website/homepage/templates/homepage/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/WRW_Website/homepage/templates/homepage/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WRW_Website/homepage/templates/homepage/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/WRW_Website/homepage/templates/homepage/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WRW_Website/homepage/templates/homepage/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/WRW_Website/homepage/templates/homepage/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WRW_Website/projects/static/projects/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/WRW_Website/projects/static/projects/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WRW_Website/projects/templates/projects/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/WRW_Website/projects/templates/projects/index.html" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,20 +19,81 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="style_landingpage.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/WRW_Website/surf/static/surf/css/style_landingpage.css">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WRW_Website/projects/static/projects/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+            <state relative-caret-position="272">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="landingpage.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/WRW_Website/surf/templates/surf/landingpage.html">
+      <file leaf-file-name="projects_navbar.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WRW_Website/WRW_Website/templates/projects_navbar.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+            <state relative-caret-position="198">
+              <caret line="11" selection-start-line="11" selection-end-line="12" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WRW_Website/WRW_Website/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="269">
+              <caret line="116" column="15" lean-forward="true" selection-start-line="116" selection-start-column="15" selection-end-line="116" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="base.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WRW_Website/homepage/templates/homepage/base.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/WRW_Website/homepage/templates/homepage/about.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2">
+              <caret line="12" column="14" lean-forward="true" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WRW_Website/homepage/static/homepage/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="animate.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WRW_Website/surf/static/surf/css/animate.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1188" />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WRW_Website/surf/static/surf/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="1" selection-start-column="1" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style_landingpage.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WRW_Website/surf/static/surf/css/style_landingpage.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="630">
+              <caret line="35" column="38" lean-forward="true" selection-start-line="35" selection-start-column="28" selection-end-line="35" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -32,63 +101,8 @@
       <file leaf-file-name="style_simple_animation.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/WRW_Website/surf/static/surf/css/style_simple_animation.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="55" column="1" selection-start-line="55" selection-start-column="1" selection-end-line="55" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/WRW_Website/surf/views.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="16" column="49" selection-start-line="16" selection-start-column="49" selection-end-line="16" selection-end-column="49" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style_login.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/WRW_Website/surf/static/surf/css/style_login.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="login.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/WRW_Website/surf/templates/surf/login.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="14" column="68" selection-start-line="14" selection-start-column="68" selection-end-line="14" selection-end-column="68" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="simple_animation.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/WRW_Website/surf/templates/surf/simple_animation.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18">
-              <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="mountain.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/WRW_Website/surf/static/surf/images/mountain.jpg">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/WRW_Website/projects/static/projects/style.css">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/WRW_Website/surf/urls.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="360">
+              <caret line="47" column="30" lean-forward="true" selection-start-line="47" selection-start-column="30" selection-end-line="47" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -98,8 +112,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -109,7 +123,12 @@
       <find>load</find>
       <find>web</find>
       <find>w</find>
+      <find>bg-dark</find>
+      <find>img-b</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -118,47 +137,57 @@
         <option value="$PROJECT_DIR$/WRW_Website/homepage/urls.py" />
         <option value="$PROJECT_DIR$/WRW_Website/homepage/views.py" />
         <option value="$PROJECT_DIR$/WRW_Website/WRW_Website/views.py" />
-        <option value="$PROJECT_DIR$/WRW_Website/homepage/templates/homepage/index.html" />
-        <option value="$PROJECT_DIR$/WRW_Website/homepage/templates/homepage/about.html" />
         <option value="$PROJECT_DIR$/WRW_Website/projects/templates/projects/web.html" />
         <option value="$PROJECT_DIR$/WRW_Website/projects/templates/projects/code.html" />
         <option value="$PROJECT_DIR$/WRW_Website/projects/templates/projects/phishing.html" />
         <option value="$PROJECT_DIR$/WRW_Website/projects/templates/projects/arcade.html" />
-        <option value="$PROJECT_DIR$/WRW_Website/homepage/templates/homepage/base.html" />
         <option value="$PROJECT_DIR$/WRW_Website/arcade/views.py" />
         <option value="$PROJECT_DIR$/WRW_Website/projects/urls.py" />
         <option value="$PROJECT_DIR$/WRW_Website/projects/views.py" />
         <option value="$PROJECT_DIR$/WRW_Website/arcade/urls.py" />
         <option value="$PROJECT_DIR$/WRW_Website/arcade/templates/arcade/base.html" />
         <option value="$PROJECT_DIR$/WRW_Website/WRW_Website/urls.py" />
-        <option value="$PROJECT_DIR$/WRW_Website/surf/templates/surf/index.html" />
-        <option value="$PROJECT_DIR$/WRW_Website/WRW_Website/settings.py" />
         <option value="$PROJECT_DIR$/WRW_Website/projects/templates/projects/base.html" />
         <option value="$PROJECT_DIR$/WRW_Website/WRW_Website/templates/projects_navbar.html" />
-        <option value="$PROJECT_DIR$/WRW_Website/arcade/templates/arcade/index.html" />
-        <option value="$PROJECT_DIR$/WRW_Website/arcade/static/arcade/style.css" />
-        <option value="$PROJECT_DIR$/WRW_Website/arcade/templates/arcade/phishing.html" />
-        <option value="$PROJECT_DIR$/WRW_Website/projects/static/projects/style.css" />
-        <option value="$PROJECT_DIR$/WRW_Website/projects/templates/projects/index.html" />
         <option value="$PROJECT_DIR$/WRW_Website/surf/static/surf/style_landingpage.css" />
         <option value="$PROJECT_DIR$/WRW_Website/surf/static/surf/style_login.css" />
-        <option value="$PROJECT_DIR$/WRW_Website/surf/views.py" />
-        <option value="$PROJECT_DIR$/WRW_Website/surf/urls.py" />
         <option value="$PROJECT_DIR$/WRW_Website/surf/templates/surf/login.html" />
         <option value="$PROJECT_DIR$/WRW_Website/surf/static/surf/css/style_login.css" />
-        <option value="$PROJECT_DIR$/WRW_Website/surf/templates/surf/simple_animation.html" />
         <option value="$PROJECT_DIR$/WRW_Website/surf/static/surf/css/style_simple_animation.css" />
         <option value="$PROJECT_DIR$/WRW_Website/surf/templates/surf/landingpage.html" />
         <option value="$PROJECT_DIR$/WRW_Website/surf/static/surf/css/style_landingpage.css" />
+        <option value="$PROJECT_DIR$/WRW_Website/surf/api/models.py" />
+        <option value="$PROJECT_DIR$/WRW_Website/surf/api/views.py" />
+        <option value="$PROJECT_DIR$/WRW_Website/surf/api/serializers.py" />
+        <option value="$PROJECT_DIR$/WRW_Website/surf/api/urls.py" />
+        <option value="$PROJECT_DIR$/WRW_Website/surf/admin.py" />
+        <option value="$PROJECT_DIR$/WRW_Website/surf/models.py" />
+        <option value="$PROJECT_DIR$/WRW_Website/surf/templates/surf/simple_animation.html" />
+        <option value="$PROJECT_DIR$/WRW_Website/surf/urls.py" />
+        <option value="$PROJECT_DIR$/WRW_Website/surf/views.py" />
+        <option value="$PROJECT_DIR$/WRW_Website/surf/serializers.py" />
+        <option value="$PROJECT_DIR$/WRW_Website/arcade/static/arcade/style.css" />
+        <option value="$PROJECT_DIR$/WRW_Website/surf/static/surf/css/style.css" />
+        <option value="$PROJECT_DIR$/WRW_Website/surf/templates/surf/index.html" />
+        <option value="$PROJECT_DIR$/WRW_Website/arcade/templates/arcade/phishing.html" />
+        <option value="$PROJECT_DIR$/WRW_Website/arcade/templates/arcade/index.html" />
+        <option value="$PROJECT_DIR$/WRW_Website/projects/templates/projects/index.html" />
+        <option value="$PROJECT_DIR$/WRW_Website/homepage/templates/homepage/index.html" />
+        <option value="$PROJECT_DIR$/WRW_Website/homepage/templates/homepage/base.html" />
+        <option value="$PROJECT_DIR$/WRW_Website/projects/static/projects/style.css" />
+        <option value="$PROJECT_DIR$/WRW_Website/WRW_Website/settings.py" />
+        <option value="$PROJECT_DIR$/WRW_Website/homepage/static/homepage/style.css" />
+        <option value="$PROJECT_DIR$/WRW_Website/homepage/templates/homepage/about.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="2199" />
-    <option name="y" value="265" />
+    <option name="x" value="2020" />
+    <option name="y" value="37" />
     <option name="width" value="1781" />
     <option name="height" value="1055" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -181,14 +210,44 @@
               <item name="WRWWebsite" type="b2602c69:ProjectViewProjectNode" />
               <item name="WRWWebsite" type="462c0819:PsiDirectoryNode" />
               <item name="WRW_Website" type="462c0819:PsiDirectoryNode" />
-              <item name="surf" type="462c0819:PsiDirectoryNode" />
+              <item name="homepage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WRWWebsite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WRWWebsite" type="462c0819:PsiDirectoryNode" />
+              <item name="WRW_Website" type="462c0819:PsiDirectoryNode" />
+              <item name="homepage" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WRWWebsite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WRWWebsite" type="462c0819:PsiDirectoryNode" />
+              <item name="WRW_Website" type="462c0819:PsiDirectoryNode" />
+              <item name="homepage" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="homepage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WRWWebsite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WRWWebsite" type="462c0819:PsiDirectoryNode" />
+              <item name="WRW_Website" type="462c0819:PsiDirectoryNode" />
+              <item name="homepage" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="homepage" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WRWWebsite" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WRWWebsite" type="462c0819:PsiDirectoryNode" />
+              <item name="WRW_Website" type="462c0819:PsiDirectoryNode" />
+              <item name="homepage" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="WRWWebsite" type="b2602c69:ProjectViewProjectNode" />
               <item name="WRWWebsite" type="462c0819:PsiDirectoryNode" />
               <item name="WRW_Website" type="462c0819:PsiDirectoryNode" />
               <item name="surf" type="462c0819:PsiDirectoryNode" />
-              <item name="migrations" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="WRWWebsite" type="b2602c69:ProjectViewProjectNode" />
@@ -214,36 +273,6 @@
               <item name="surf" type="462c0819:PsiDirectoryNode" />
               <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="WRWWebsite" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WRWWebsite" type="462c0819:PsiDirectoryNode" />
-              <item name="WRW_Website" type="462c0819:PsiDirectoryNode" />
-              <item name="surf" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="surf" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WRWWebsite" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WRWWebsite" type="462c0819:PsiDirectoryNode" />
-              <item name="WRW_Website" type="462c0819:PsiDirectoryNode" />
-              <item name="surf" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WRWWebsite" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WRWWebsite" type="462c0819:PsiDirectoryNode" />
-              <item name="WRW_Website" type="462c0819:PsiDirectoryNode" />
-              <item name="surf" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="surf" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WRWWebsite" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WRWWebsite" type="462c0819:PsiDirectoryNode" />
-              <item name="WRW_Website" type="462c0819:PsiDirectoryNode" />
-              <item name="WRW_Website" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -257,18 +286,18 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/WRW_Website/surf/static/surf/js" />
       <recent name="$PROJECT_DIR$/WRW_Website/surf/static/surf/css" />
+      <recent name="$PROJECT_DIR$/WRW_Website/surf/static/surf/js" />
       <recent name="$PROJECT_DIR$/WRW_Website/surf/templates/surf" />
       <recent name="$PROJECT_DIR$/WRW_Website/surf/static/surf/images" />
       <recent name="$PROJECT_DIR$/WRW_Website/projects/static/projects" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/WRW_Website/surf" />
+      <recent name="$PROJECT_DIR$/WRW_Website/surf/api" />
       <recent name="$PROJECT_DIR$/WRW_Website/surf/static/surf/css" />
       <recent name="$PROJECT_DIR$/WRW_Website/surf/static/surf" />
       <recent name="$PROJECT_DIR$/WRW_Website/WRW_Website/templates" />
-      <recent name="$PROJECT_DIR$/WRW_Website/arcade/templates/arcade" />
-      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -297,161 +326,59 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2199" y="265" width="1781" height="1055" extended-state="0" />
+    <frame x="2020" y="37" width="1781" height="1055" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16268487" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16268487" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5007143" side_tool="true" weight="0.32938075" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Python Console" order="9" sideWeight="0.49877602" weight="0.3278272" />
       <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Python Console" order="9" sideWeight="0.29863483" visible="true" weight="0.9499444" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.5011377" side_tool="true" visible="true" weight="0.34961155" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.7013652" side_tool="true" visible="true" weight="0.9499444" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49886236" weight="0.34922394" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49829352" weight="0.34816462" />
       <window_info anchor="bottom" id="Message" order="0" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1750306" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16268487" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Python Console" order="7" sideWeight="0.49877602" visible="true" weight="0.3278272" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49886236" weight="0.34922394" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.501224" side_tool="true" visible="true" weight="0.3278272" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5007143" side_tool="true" weight="0.32938075" />
-      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.5011377" side_tool="true" weight="0.40934372" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5007143" side_tool="true" weight="0.32938075" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Python Console" order="9" sideWeight="0.49877602" weight="0.3278272" />
     </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/WRW_Website/arcade/static/arcade/Build/UnityLoader.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WRW_Website/arcade/static/arcade/TemplateData/style.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WRW_Website/arcade/templates/projects/web.html" />
-    <entry file="file://$PROJECT_DIR$/WRW_Website/arcade/templates/arcade/arcade.html" />
-    <entry file="file://$PROJECT_DIR$/WRW_Website/projects/templates/projects/code.html" />
-    <entry file="file://$PROJECT_DIR$/WRW_Website/projects/templates/projects/arcade.html" />
-    <entry file="file://$PROJECT_DIR$/WRW_Website/projects/templates/projects/web.html" />
-    <entry file="file://$PROJECT_DIR$/WRW_Website/arcade/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WRW_Website/WRW_Website/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="20" column="15" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WRW_Website/arcade/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="7" column="15" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WRW_Website/WRW_Website/wsgi.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WRW_Website/surf/__init__.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WRW_Website/WRW_Website/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="39" selection-start-column="39" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WRW_Website/WRW_Website/templates/base.html" />
-    <entry file="file://$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/template/backends/django.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="83" selection-start-line="83" selection-end-line="84" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WRW_Website/WRW_Website/static/style.css" />
-    <entry file="file://$PROJECT_DIR$/WRW_Website/projects/templates/projects/base.html" />
-    <entry file="file://$PROJECT_DIR$/WRW_Website/WRW_Website/templates/projects_navbar.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WRW_Website/arcade/templates/arcade/base.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="70" selection-start-line="14" selection-start-column="70" selection-end-line="14" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WRW_Website/arcade/templates/arcade/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" selection-start-line="4" selection-end-line="5" selection-end-column="83" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WRW_Website/arcade/static/arcade/images/bg1.png" />
-    <entry file="file://$PROJECT_DIR$/WRW_Website/arcade/static/arcade/images/Arcade.jpg" />
-    <entry file="file://$PROJECT_DIR$/WRW_Website/arcade/static/arcade/images/bg3.jpg" />
-    <entry file="file://$PROJECT_DIR$/WRW_Website/arcade/static/arcade/images/bg2.jpg" />
-    <entry file="file://$PROJECT_DIR$/WRW_Website/arcade/static/arcade/images/Game.png" />
-    <entry file="file://$PROJECT_DIR$/WRW_Website/arcade/static/arcade/images/Code.png" />
     <entry file="file://$PROJECT_DIR$/WRW_Website/arcade/static/arcade/images/Web.png" />
-    <entry file="file://$PROJECT_DIR$/WRW_Website/arcade/static/arcade/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WRW_Website/arcade/templates/arcade/phishing.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="83" selection-start-line="6" selection-start-column="83" selection-end-line="6" selection-end-column="83" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/WRW_Website/projects/static/projects/images/Game.png" />
     <entry file="file://$PROJECT_DIR$/WRW_Website/projects/static/projects/images/Arcade.jpg">
       <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WRW_Website/surf/templates/surf/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="22" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/WRW_Website/homepage/views.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -461,23 +388,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/WRW_Website/homepage/urls.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WRW_Website/homepage/static/homepage/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WRW_Website/projects/templates/projects/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="62" selection-start-line="5" selection-start-column="62" selection-end-line="5" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WRW_Website/surf/static/surf/css/animate.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/WRW_Website/surf/static/surf/js/jquery.waypoints.min.js">
@@ -497,72 +407,262 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/WRW_Website/surf/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WRW_Website/WRW_Website/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="60" column="53" selection-start-line="60" selection-start-column="53" selection-end-line="60" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WRW_Website/projects/static/projects/style.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WRW_Website/surf/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" column="49" selection-start-line="16" selection-start-column="49" selection-end-line="16" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WRW_Website/surf/templates/surf/login.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="68" selection-start-line="14" selection-start-column="68" selection-end-line="14" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/WRW_Website/surf/static/surf/images/mountain.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/WRW_Website/WRW_Website/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="39" selection-start-column="39" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/db/models/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1319">
+          <caret line="514" column="8" selection-start-line="514" selection-start-column="8" selection-end-line="514" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/db/migrations/operations/fields.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="269" selection-start-line="269" selection-end-line="269" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WRW_Website/surf/migrations/0001_initial.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/apps/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="89" selection-start-line="89" selection-end-line="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WRW_Website/WRW_Website/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WRW_Website/surf/api/models.py" />
+    <entry file="file://$PROJECT_DIR$/WRW_Website/surf/api/views.py" />
+    <entry file="file://$PROJECT_DIR$/WRW_Website/surf/api/urls.py" />
+    <entry file="file://$PROJECT_DIR$/WRW_Website/surf/api/apps.py" />
+    <entry file="file://$PROJECT_DIR$/WRW_Website/surf/apps.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WRW_Website/surf/tests.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.6/site-packages/django/db/backends/sqlite3/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="302" selection-start-line="302" selection-end-line="302" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/lib/python3.6/site-packages/rest_framework/relations.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="284" selection-start-line="284" selection-end-line="285" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WRW_Website/surf/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="12" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WRW_Website/surf/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WRW_Website/surf/templates/surf/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="30" column="26" selection-start-line="30" selection-start-column="26" selection-end-line="30" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/WRW_Website/surf/static/surf/css/style_login.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+        <state relative-caret-position="-306">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/WRW_Website/surf/templates/surf/simple_animation.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+        <state relative-caret-position="198">
+          <caret line="11" column="49" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="49" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/WRW_Website/surf/static/surf/css/style_simple_animation.css">
+    <entry file="file://$PROJECT_DIR$/WRW_Website/surf/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="55" column="1" selection-start-line="55" selection-start-column="1" selection-end-line="55" selection-end-column="24" />
+        <state relative-caret-position="72">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WRW_Website/surf/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="37" lean-forward="true" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WRW_Website/surf/serializers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="40" lean-forward="true" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WRW_Website/arcade/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/WRW_Website/surf/templates/surf/landingpage.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+        <state relative-caret-position="162">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WRW_Website/surf/templates/surf/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WRW_Website/arcade/static/arcade/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" selection-start-line="1" selection-end-line="3" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WRW_Website/arcade/templates/arcade/phishing.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="24" column="74" selection-start-line="24" selection-start-column="74" selection-end-line="24" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WRW_Website/arcade/templates/arcade/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WRW_Website/homepage/templates/homepage/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" selection-start-line="1" selection-end-line="6" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WRW_Website/projects/templates/projects/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" selection-start-line="1" selection-end-line="6" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WRW_Website/homepage/templates/homepage/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WRW_Website/WRW_Website/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="116" column="15" lean-forward="true" selection-start-line="116" selection-start-column="15" selection-end-line="116" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WRW_Website/projects/static/projects/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WRW_Website/WRW_Website/templates/projects_navbar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" selection-start-line="11" selection-end-line="12" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WRW_Website/surf/static/surf/css/animate.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1188" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WRW_Website/surf/static/surf/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1" selection-start-column="1" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WRW_Website/surf/static/surf/css/style_simple_animation.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="47" column="30" lean-forward="true" selection-start-line="47" selection-start-column="30" selection-end-line="47" selection-end-column="30" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/WRW_Website/surf/static/surf/css/style_landingpage.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        <state relative-caret-position="630">
+          <caret line="35" column="38" lean-forward="true" selection-start-line="35" selection-start-column="28" selection-end-line="35" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WRW_Website/homepage/static/homepage/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WRW_Website/homepage/templates/homepage/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2">
+          <caret line="12" column="14" lean-forward="true" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
         </state>
       </provider>
     </entry>

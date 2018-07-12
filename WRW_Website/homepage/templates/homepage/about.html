@@ -1,12 +1,23 @@
 {% extends 'homepage/base.html' %}
+{% load staticfiles %}
+
+{% block header %}
+    {% load staticfiles %}
+    <link rel="stylesheet" type="text/css" href="{% static 'homepage/style.css' %}" >
+{% endblock header %}
 
 {% block body %}
-    <div class="row h-100 williamimg">
-        <div class="col-sm h-100 ">
+
+    <div class="row williamimg">
+        <div class="col-lg-4 ">
+        </div>
+        <div class="col-lg-4">
             <h1 class="text-center myname" >William R. Walsh</h1>
-            <p class="text-center myname">Inquisitive Computer Engineer</p>
-            <p class="text-center myname">William is a software developer from Maryland, but now living in Charleston, SC.
-            After getting his B.S. in Computer Engineering from Clemson he (work interests) (other interests) (experience in..)</p>
+        </div>
+        <div class="col-lg-4 ">
+            <p class="about-text"><br/><br/><br/><br/>Ever since I was a tiny human, I knew that I wanted to be a computer engineer. Before I knew that orange was my favorite color, even before I realized that coffee was my life force, I knew that I loved engineering solutions for all types of situations. In fact, in the third grade we were asked to draw a picture of what we wanted to be when we grew up for a class art project and, while my classmates drew basketballs and ballet slippers, I drew a really poor excuse for a computer. Had I known that my mom would end up purchasing this art project at a charity auction and it would be hanging in our kitchen for everyone to see for all time, I would have tried much harder to make it look more like a computer and less like an old school nintendo controller but what can you do?<br/><br/>After successfully earning a degree in computer engineering, I can honestly say I am doing what I love. With 7+ years of experience in software development, I am proficient in GIS, web development, and several programming languages.<br/><br/>Previously, I worked for the Geography Department at the University of Maryland developing fire detecting algorithms using satellite data. Before that I was an engineer at NASA's Goddard campus managing data for dozens of remote sensing algorithms.<br/><br/>Interested in: web development, game design, and machine learning</p>
+
         </div>
     </div>
+
 {% endblock body %}
