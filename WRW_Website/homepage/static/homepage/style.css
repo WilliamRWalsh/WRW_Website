@@ -1,5 +1,8 @@
-html,body {
-  height: 100%;
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
 }
 
 
@@ -17,6 +20,10 @@ html,body {
       background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+}
+
+.bgimga {
+
 }
 
 .williamimg {

@@ -6,12 +6,12 @@
     {% load staticfiles %}
     <link rel="stylesheet" type="text/css" href="{% static 'arcade/style.css' %}" >
 
-    <link rel="shortcut icon" href="../../static/projects/TemplateData/favicon.ico">
-    <link rel="stylesheet" href="../../static/projects/TemplateData/style.css">
-    <script src="../../static/projects/TemplateData/UnityProgress.js"></script>
-    <script src="../../static/projects/Build/UnityLoader.js"></script>
+    <link rel="shortcut icon" href="../../static/arcade/TemplateData/favicon.ico">
+    <link rel="stylesheet" href="../../static/arcade/TemplateData/style.css">
+    <script src="../../static/arcade/TemplateData/UnityProgress.js"></script>
+    <script src="../../static/arcade/Build/UnityLoader.js"></script>
     <script>
-        var gameInstance = UnityLoader.instantiate("gameContainer", "../../static/projects/Build/gamebuilds.json", {onProgress: UnityProgress});
+        var gameInstance = UnityLoader.instantiate("gameContainer", "../../static/arcade/Build/gamebuilds.json", {onProgress: UnityProgress});
     </script>
 
 
@@ -23,7 +23,7 @@
         <div class="footer">
             <div class="webgl-logo"></div>
             <div class="fullscreen" onclick="gameInstance.SetFullscreen(1)"></div>
-            <div class="title">Phishing</div>
+            <div class="title">Fullscreen</div>
         </div>
     </div>
 {% endblock body %}

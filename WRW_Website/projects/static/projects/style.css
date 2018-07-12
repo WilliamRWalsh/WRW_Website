@@ -1,3 +1,9 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+}
 
 .card-img-top {
     width: 100%;
@@ -6,7 +12,8 @@
 }
 
 .img-bg {
-    background: url('images/ProjectBG.jpg');
+    background: url('images/ProjectBG.jpg') no-repeat center center;
+    height: 100%;
     background-size: cover;
 }
 
@@ -38,10 +45,3 @@
 }
 
 
-.williamimg {
-
-  height: 100%;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-}

@@ -1,14 +1,54 @@
 {% extends 'projects_navbar.html' %}
 {% load staticfiles %}
 
+{% block header %}
+    {% load staticfiles %}
+    <link rel="stylesheet" type="text/css" href="{% static 'surf/css/style.css' %}" >
+{% endblock header %}
+
 {% block body %}
 
     <div class="row">
         <div class="col-sm nopad">
-            <div class="jumbotron jumbotron-fluid ">
-
+            <div class="jumbotron jumbotron-fluid center-txt">
+                <h1>I created these pages purely for practice and experimentation</h1>
+                <h4>All these pages are responsive for mobile or tablets</h4>
             </div>
         </div>
+    </div>
+
+    <div class="d-md-flex flex-md-equal w-100 my-md-3 pl-md-3">
+      <div class="bg-dark mr-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center text-white overflow-hidden">
+        <div class="my-3 py-3">
+          <h2 class="display-5">Landing Page with Animation</h2>
+          <p class="lead">The animation was created with the help the waypoint library.</p>
+            <a href="{% url 'surf:simpleAnimation' %}"><div class="anim-img box-shadow mx-auto" style="width: 90%; height: 300px; border-radius: 21px 21px 21px 21px;"></div></a>
+        </div>
+      </div>
+      <div class="bg-light mr-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center overflow-hidden">
+        <div class="my-3 p-3">
+          <h2 class="display-5">Login Page</h2>
+            <p class="lead">Icons imported from font awesome.</p>
+            <a href="{% url 'surf:login' %}"><div class="login-img box-shadow mx-auto" style="width: 90%; height: 300px; border-radius: 21px 21px 21px 21px;"></div></a>
+        </div>
+      </div>
+    </div>
+    <div class="d-md-flex flex-md-equal w-100 my-md-3 pl-md-3">
+      <div class="bg-dark mr-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center text-white overflow-hidden">
+        <div class="my-3 py-3">
+          <h2 class="display-5">JSON API</h2>
+          <p class="lead">My playground for creating a JSON API - grabbing tables filled with books and authors.</p>
+            <a href="./api/"><div class="api-img box-shadow mx-auto" style="width: 90%; height: 300px; border-radius:  21px 21px 21px 21px;"></div></a>
+        </div>
+      </div>
+      <div class="bg-light mr-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center overflow-hidden">
+        <div class="my-3 p-3">
+          <h2 class="display-5">Landing Page</h2>
+          <p class="lead">Simple landing page created with only html and css.</p>
+             <a href="{% url 'surf:landingpage' %}"><div class="landing-img box-shadow mx-auto" style="width: 90%; height: 300px; border-radius: 21px 21px 21px 21px;"></div></a>
+        </div>
+
+      </div>
     </div>
 
 {% endblock body %}
